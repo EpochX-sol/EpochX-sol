@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android development.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects **
 
 - 📫 How to reach me **samuelweblem@gmail.com**
 - 💬 Ask me about **html,css,javascript,c++,java,c#**
