@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Samuel webalem</h1>
 <h3 align="center">A passionate developer from Ethiopia</h3>
 
-- 🌱 I’m currently learning **Android development.**
+- 🌱 I’m currently learning **MERN STACK.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects **
 
