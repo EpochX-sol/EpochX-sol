@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects **
 
 - 📫 How to reach me **samuelweblem@gmail.com**
-- 💬 Ask me about **html,css,javascript,c++,java,c#**
 
 - ⚡  **I AM PASSIONATED AND FAST LEARNER.**
 ## Connect with me:
