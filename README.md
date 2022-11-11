@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects **
 
-- 📫 How to reach me **samuelweblem@gmail.com**
+- 📫 How to reach me **samuelwebalem@gmail.com**
 
 - ⚡  **I AM PASSIONATED AND FAST LEARNER.**
 ## Connect with me:
