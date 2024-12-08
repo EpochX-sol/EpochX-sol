@@ -41,7 +41,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Samuel-webalem/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EpochX-sol&bg_color=FAF7F6&color=665D5B&line=665D5B&point=665D5B&hide_border=true" /></a>
+<a href="https://github.com/EpochX-sol/github-readme-activity-graph"><img alt="samuels Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EpochX-sol&bg_color=FAF7F6&color=665D5B&line=665D5B&point=665D5B&hide_border=true" /></a>
 
 <br/>
 <br/>
