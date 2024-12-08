@@ -34,20 +34,20 @@
 <br/>
 <br/>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-webalem&show_icons=true&locale=en&layout=compact" alt="samuel-webalem" /></p>-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EpochX-sol&show_icons=true&locale=en&layout=compact" alt="samuel-webalem" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-webalem&show_icons=true&locale=en" alt="samuel-webalem" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EpochX-sol&show_icons=true&locale=en" alt="samuel-webalem" /></p>
 <br/>
 <br/>
 
-<!--<a href="https://github.com/Samuel-webalem/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samuel-webalem&bg_color=FAF7F6&color=665D5B&line=665D5B&point=665D5B&hide_border=true" /></a>-->
+<a href="https://github.com/Samuel-webalem/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EpochX-sol&bg_color=FAF7F6&color=665D5B&line=665D5B&point=665D5B&hide_border=true" /></a>
 
 <br/>
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-webalem&" alt="samuel-webalem" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EpochX-sol&" alt="samuel-webalem" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-webalem&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-webalem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EpochX-sol&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-webalem" /> </p>
 
 
